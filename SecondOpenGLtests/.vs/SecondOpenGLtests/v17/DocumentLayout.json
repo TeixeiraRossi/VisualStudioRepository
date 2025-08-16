@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GIT_VisualStudioRepository\\SecondOpenGLtests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AB7B19-2C0F-416F-BEE6-B463246766D2}|SecondOpenGLtests\\SecondOpenGLtests.vcxproj|D:\\GIT_VisualStudioRepository\\SecondOpenGLtests\\SecondOpenGLtests\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4AB7B19-2C0F-416F-BEE6-B463246766D2}|SecondOpenGLtests\\SecondOpenGLtests.vcxproj|solutionrelative:SecondOpenGLtests\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AB7B19-2C0F-416F-BEE6-B463246766D2}|SecondOpenGLtests\\SecondOpenGLtests.vcxproj|D:\\GIT_VISUALSTUDIOREPOSITORY\\SECONDOPENGLTESTS\\LIBRARIES\\GLEW\\GLEW-2.2.0\\INCLUDE\\GL\\GLEW.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4AB7B19-2C0F-416F-BEE6-B463246766D2}|SecondOpenGLtests\\SecondOpenGLtests.vcxproj|solutionrelative:LIBRARIES\\GLEW\\GLEW-2.2.0\\INCLUDE\\GL\\GLEW.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "glew.h",
+              "DocumentMoniker": "D:\\GIT_VisualStudioRepository\\SecondOpenGLtests\\Libraries\\GLEW\\glew-2.2.0\\include\\GL\\glew.h",
+              "RelativeDocumentMoniker": "Libraries\\GLEW\\glew-2.2.0\\include\\GL\\glew.h",
+              "ToolTip": "D:\\GIT_VisualStudioRepository\\SecondOpenGLtests\\Libraries\\GLEW\\glew-2.2.0\\include\\GL\\glew.h",
+              "RelativeToolTip": "Libraries\\GLEW\\glew-2.2.0\\include\\GL\\glew.h",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAIwFQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-16T13:59:04.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\GIT_VisualStudioRepository\\SecondOpenGLtests\\SecondOpenGLtests\\main.cpp",
+              "RelativeDocumentMoniker": "SecondOpenGLtests\\main.cpp",
+              "ToolTip": "D:\\GIT_VisualStudioRepository\\SecondOpenGLtests\\SecondOpenGLtests\\main.cpp",
+              "RelativeToolTip": "SecondOpenGLtests\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-16T13:33:18.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

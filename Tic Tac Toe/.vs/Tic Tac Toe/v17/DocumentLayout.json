@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudioRepository\\Tic Tac Toe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BCEDE3-613A-4EFC-BE86-D25C88BD3781}|Tic Tac Toe\\Tic Tac Toe.vcxproj|D:\\VisualStudioRepository\\Tic Tac Toe\\Tic Tac Toe\\Tic Tac Toe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4BCEDE3-613A-4EFC-BE86-D25C88BD3781}|Tic Tac Toe\\Tic Tac Toe.vcxproj|solutionrelative:Tic Tac Toe\\Tic Tac Toe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tic Tac Toe.cpp",
+              "DocumentMoniker": "D:\\VisualStudioRepository\\Tic Tac Toe\\Tic Tac Toe\\Tic Tac Toe.cpp",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\Tic Tac Toe.cpp",
+              "ToolTip": "D:\\VisualStudioRepository\\Tic Tac Toe\\Tic Tac Toe\\Tic Tac Toe.cpp",
+              "RelativeToolTip": "Tic Tac Toe\\Tic Tac Toe.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-15T23:52:47.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

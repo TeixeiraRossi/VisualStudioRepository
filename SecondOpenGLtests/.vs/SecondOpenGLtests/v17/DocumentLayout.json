@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{F4AB7B19-2C0F-416F-BEE6-B463246766D2}|SecondOpenGLtests\\SecondOpenGLtests.vcxproj|solutionrelative:SecondOpenGLtests\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4AB7B19-2C0F-416F-BEE6-B463246766D2}|SecondOpenGLtests\\SecondOpenGLtests.vcxproj|D:\\GIT_VisualStudioRepository\\SecondOpenGLtests\\SecondOpenGLtests\\Main.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F4AB7B19-2C0F-416F-BEE6-B463246766D2}|SecondOpenGLtests\\SecondOpenGLtests.vcxproj|solutionrelative:SecondOpenGLtests\\Main.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F4AB7B19-2C0F-416F-BEE6-B463246766D2}|SecondOpenGLtests\\SecondOpenGLtests.vcxproj|D:\\GIT_VisualStudioRepository\\SecondOpenGLtests\\SecondOpenGLtests\\Main.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{F4AB7B19-2C0F-416F-BEE6-B463246766D2}|SecondOpenGLtests\\SecondOpenGLtests.vcxproj|solutionrelative:SecondOpenGLtests\\Main.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AB7B19-2C0F-416F-BEE6-B463246766D2}|SecondOpenGLtests\\SecondOpenGLtests.vcxproj|D:\\GIT_VisualStudioRepository\\SecondOpenGLtests\\SecondOpenGLtests\\Main.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F4AB7B19-2C0F-416F-BEE6-B463246766D2}|SecondOpenGLtests\\SecondOpenGLtests.vcxproj|solutionrelative:SecondOpenGLtests\\Main.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4AB7B19-2C0F-416F-BEE6-B463246766D2}|SecondOpenGLtests\\SecondOpenGLtests.vcxproj|D:\\GIT_VisualStudioRepository\\SecondOpenGLtests\\SecondOpenGLtests\\Error.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -62,29 +62,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Main.frag",
               "DocumentMoniker": "D:\\GIT_VisualStudioRepository\\SecondOpenGLtests\\SecondOpenGLtests\\Main.frag",
               "RelativeDocumentMoniker": "SecondOpenGLtests\\Main.frag",
               "ToolTip": "D:\\GIT_VisualStudioRepository\\SecondOpenGLtests\\SecondOpenGLtests\\Main.frag",
               "RelativeToolTip": "SecondOpenGLtests\\Main.frag",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-17T17:11:09.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T17:11:09.803Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Main.vert",
               "DocumentMoniker": "D:\\GIT_VisualStudioRepository\\SecondOpenGLtests\\SecondOpenGLtests\\Main.vert",
               "RelativeDocumentMoniker": "SecondOpenGLtests\\Main.vert",
               "ToolTip": "D:\\GIT_VisualStudioRepository\\SecondOpenGLtests\\SecondOpenGLtests\\Main.vert",
               "RelativeToolTip": "SecondOpenGLtests\\Main.vert",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-17T17:10:47.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T17:10:47.746Z"
             },
             {
               "$type": "Document",
@@ -94,7 +92,7 @@
               "RelativeDocumentMoniker": "SecondOpenGLtests\\main.cpp",
               "ToolTip": "D:\\GIT_VisualStudioRepository\\SecondOpenGLtests\\SecondOpenGLtests\\main.cpp",
               "RelativeToolTip": "SecondOpenGLtests\\main.cpp",
-              "ViewState": "AgIAAJAAAAAAAAAAAADwv5oAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvyYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-16T13:33:18.182Z",
               "EditorCaption": ""

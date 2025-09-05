@@ -193,6 +193,7 @@ void draw(float dt) {
         glBindVertexArray(triangleVAO);
 
         glDrawArrays(GL_TRIANGLES, 0, 3);
+        //glDrawElements(GL_TRIANGLES, 6, GL_UNSIGNED_INT, 0);
         //
         modelToWorld = glm::translate(glm::mat4(1.f), glm::vec3(+0.5f, 0.5f, 0.f));
         modelToWorld = glm::rotate(modelToWorld, glm::radians(-60.f * dt), glm::vec3(0.f, 0.f, 1.f));

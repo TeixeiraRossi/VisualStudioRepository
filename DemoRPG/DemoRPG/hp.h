@@ -14,7 +14,15 @@ public:
 		}
 
 		return true;
+	}
 
+	hptype getMaxHp() {
+		return MaxHP;
+	}
+
+
+	hptype getCurrentHp() {
+		return CurrentHP;
 	}
 
 	void takeDamage(hptype damage) {
@@ -22,21 +30,26 @@ public:
 			CurrentHP = 0;
 			return;
 		}
-
 		CurrentHP -= damage;
 	}
 
 	void heal(hptype amount) {
 		if (amount + CurrentHP > MaxHP) {
-			MaxHP 
+			CurrentHP = MaxHP;
+			return;
 		}
+		CurrentHP += amount;
+	}
+
+	hp() {CurrentHP = 1; MaxHP = 1;}
+	hp(hptype cHP, hptype mHP) {
+		CurrentHP = cHP;
+		MaxHP = mHP;
+		if(CurrentHP >)
 	}
 
 
-
 private:
-	hptype ShieldHP;
 	hptype CurrentHP;
 	hptype MaxHP;
-	
 };

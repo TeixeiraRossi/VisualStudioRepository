@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\VisualStudioRepository\\DemoRPG\\",
+  "WorkspaceRootPath": "D:\\GIT_VisualStudioRepository\\DemoRPG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F00BB36-1D6B-4CBC-A8F1-D768CA12D7C9}|DemoRPG\\DemoRPG.vcxproj|D:\\VisualStudioRepository\\DemoRPG\\DemoRPG\\hp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8F00BB36-1D6B-4CBC-A8F1-D768CA12D7C9}|DemoRPG\\DemoRPG.vcxproj|D:\\GIT_VisualStudioRepository\\DemoRPG\\DemoRPG\\hp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8F00BB36-1D6B-4CBC-A8F1-D768CA12D7C9}|DemoRPG\\DemoRPG.vcxproj|solutionrelative:DemoRPG\\hp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F00BB36-1D6B-4CBC-A8F1-D768CA12D7C9}|DemoRPG\\DemoRPG.vcxproj|D:\\VisualStudioRepository\\DemoRPG\\DemoRPG\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8F00BB36-1D6B-4CBC-A8F1-D768CA12D7C9}|DemoRPG\\DemoRPG.vcxproj|solutionrelative:DemoRPG\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8F00BB36-1D6B-4CBC-A8F1-D768CA12D7C9}|DemoRPG\\DemoRPG.vcxproj|D:\\GIT_VisualStudioRepository\\DemoRPG\\DemoRPG\\warrior.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F00BB36-1D6B-4CBC-A8F1-D768CA12D7C9}|DemoRPG\\DemoRPG.vcxproj|solutionrelative:DemoRPG\\warrior.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F00BB36-1D6B-4CBC-A8F1-D768CA12D7C9}|DemoRPG\\DemoRPG.vcxproj|D:\\VisualStudioRepository\\DemoRPG\\DemoRPG\\hitpointstype.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8F00BB36-1D6B-4CBC-A8F1-D768CA12D7C9}|DemoRPG\\DemoRPG.vcxproj|D:\\GIT_VisualStudioRepository\\DemoRPG\\DemoRPG\\hitpointstype.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8F00BB36-1D6B-4CBC-A8F1-D768CA12D7C9}|DemoRPG\\DemoRPG.vcxproj|solutionrelative:DemoRPG\\hitpointstype.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F00BB36-1D6B-4CBC-A8F1-D768CA12D7C9}|DemoRPG\\DemoRPG.vcxproj|D:\\GIT_VisualStudioRepository\\DemoRPG\\DemoRPG\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F00BB36-1D6B-4CBC-A8F1-D768CA12D7C9}|DemoRPG\\DemoRPG.vcxproj|solutionrelative:DemoRPG\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -32,36 +36,50 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "hitpointstype.h",
-              "DocumentMoniker": "D:\\VisualStudioRepository\\DemoRPG\\DemoRPG\\hitpointstype.h",
+              "DocumentMoniker": "D:\\GIT_VisualStudioRepository\\DemoRPG\\DemoRPG\\hitpointstype.h",
               "RelativeDocumentMoniker": "DemoRPG\\hitpointstype.h",
-              "ToolTip": "D:\\VisualStudioRepository\\DemoRPG\\DemoRPG\\hitpointstype.h",
+              "ToolTip": "D:\\GIT_VisualStudioRepository\\DemoRPG\\DemoRPG\\hitpointstype.h",
               "RelativeToolTip": "DemoRPG\\hitpointstype.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-22T14:18:32.247Z"
+              "WhenOpened": "2025-07-22T14:18:32.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "warrior.h",
+              "DocumentMoniker": "D:\\GIT_VisualStudioRepository\\DemoRPG\\DemoRPG\\warrior.h",
+              "RelativeDocumentMoniker": "DemoRPG\\warrior.h",
+              "ToolTip": "D:\\GIT_VisualStudioRepository\\DemoRPG\\DemoRPG\\warrior.h",
+              "RelativeToolTip": "DemoRPG\\warrior.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-01T20:27:53.825Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "hp.h",
-              "DocumentMoniker": "D:\\VisualStudioRepository\\DemoRPG\\DemoRPG\\hp.h",
+              "DocumentMoniker": "D:\\GIT_VisualStudioRepository\\DemoRPG\\DemoRPG\\hp.h",
               "RelativeDocumentMoniker": "DemoRPG\\hp.h",
-              "ToolTip": "D:\\VisualStudioRepository\\DemoRPG\\DemoRPG\\hp.h",
+              "ToolTip": "D:\\GIT_VisualStudioRepository\\DemoRPG\\DemoRPG\\hp.h",
               "RelativeToolTip": "DemoRPG\\hp.h",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-22T14:11:04.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "main.cpp",
-              "DocumentMoniker": "D:\\VisualStudioRepository\\DemoRPG\\DemoRPG\\main.cpp",
+              "DocumentMoniker": "D:\\GIT_VisualStudioRepository\\DemoRPG\\DemoRPG\\main.cpp",
               "RelativeDocumentMoniker": "DemoRPG\\main.cpp",
-              "ToolTip": "D:\\VisualStudioRepository\\DemoRPG\\DemoRPG\\main.cpp",
+              "ToolTip": "D:\\GIT_VisualStudioRepository\\DemoRPG\\DemoRPG\\main.cpp",
               "RelativeToolTip": "DemoRPG\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-22T14:06:23.662Z",
               "EditorCaption": ""

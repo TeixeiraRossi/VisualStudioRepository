@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\GIT_VisualStudioRepository\\ThirdOpenGLtests\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7F638AF6-0BBD-4BEE-86AE-67D146DFECF0}|ThirdOpenGLtests\\ThirdOpenGLtests.vcxproj|D:\\GIT_VisualStudioRepository\\ThirdOpenGLtests\\ThirdOpenGLtests\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F638AF6-0BBD-4BEE-86AE-67D146DFECF0}|ThirdOpenGLtests\\ThirdOpenGLtests.vcxproj|solutionrelative:ThirdOpenGLtests\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F638AF6-0BBD-4BEE-86AE-67D146DFECF0}|ThirdOpenGLtests\\ThirdOpenGLtests.vcxproj|D:\\GIT_VisualStudioRepository\\ThirdOpenGLtests\\ThirdOpenGLtests\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F638AF6-0BBD-4BEE-86AE-67D146DFECF0}|ThirdOpenGLtests\\ThirdOpenGLtests.vcxproj|solutionrelative:ThirdOpenGLtests\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7F638AF6-0BBD-4BEE-86AE-67D146DFECF0}|ThirdOpenGLtests\\ThirdOpenGLtests.vcxproj|D:\\GIT_VisualStudioRepository\\ThirdOpenGLtests\\ThirdOpenGLtests\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7F638AF6-0BBD-4BEE-86AE-67D146DFECF0}|ThirdOpenGLtests\\ThirdOpenGLtests.vcxproj|solutionrelative:ThirdOpenGLtests\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +46,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Shader.cpp",
+              "DocumentMoniker": "D:\\GIT_VisualStudioRepository\\ThirdOpenGLtests\\ThirdOpenGLtests\\Shader.cpp",
+              "RelativeDocumentMoniker": "ThirdOpenGLtests\\Shader.cpp",
+              "ToolTip": "D:\\GIT_VisualStudioRepository\\ThirdOpenGLtests\\ThirdOpenGLtests\\Shader.cpp",
+              "RelativeToolTip": "ThirdOpenGLtests\\Shader.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-05T14:38:26.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shader.h",
+              "DocumentMoniker": "D:\\GIT_VisualStudioRepository\\ThirdOpenGLtests\\ThirdOpenGLtests\\Shader.h",
+              "RelativeDocumentMoniker": "ThirdOpenGLtests\\Shader.h",
+              "ToolTip": "D:\\GIT_VisualStudioRepository\\ThirdOpenGLtests\\ThirdOpenGLtests\\Shader.h",
+              "RelativeToolTip": "ThirdOpenGLtests\\Shader.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-05T14:28:47.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Error.cpp",
               "DocumentMoniker": "D:\\GIT_VisualStudioRepository\\ThirdOpenGLtests\\ThirdOpenGLtests\\Error.cpp",
               "RelativeDocumentMoniker": "ThirdOpenGLtests\\Error.cpp",
@@ -50,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Error.h",
               "DocumentMoniker": "D:\\GIT_VisualStudioRepository\\ThirdOpenGLtests\\ThirdOpenGLtests\\Error.h",
               "RelativeDocumentMoniker": "ThirdOpenGLtests\\Error.h",
@@ -62,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Main.frag",
               "DocumentMoniker": "D:\\GIT_VisualStudioRepository\\ThirdOpenGLtests\\ThirdOpenGLtests\\Main.frag",
               "RelativeDocumentMoniker": "ThirdOpenGLtests\\Main.frag",
@@ -74,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Main.vert",
               "DocumentMoniker": "D:\\GIT_VisualStudioRepository\\ThirdOpenGLtests\\ThirdOpenGLtests\\Main.vert",
               "RelativeDocumentMoniker": "ThirdOpenGLtests\\Main.vert",
@@ -86,13 +120,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\GIT_VisualStudioRepository\\ThirdOpenGLtests\\ThirdOpenGLtests\\main.cpp",
               "RelativeDocumentMoniker": "ThirdOpenGLtests\\main.cpp",
               "ToolTip": "D:\\GIT_VisualStudioRepository\\ThirdOpenGLtests\\ThirdOpenGLtests\\main.cpp",
               "RelativeToolTip": "ThirdOpenGLtests\\main.cpp",
-              "ViewState": "AgIAAIUAAAAAAAAAAADwvx4BAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-19T13:04:19.025Z",
               "EditorCaption": ""

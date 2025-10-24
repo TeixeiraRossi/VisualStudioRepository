@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\VisualStudioRepository\\OpenGLfirstTesting\\",
+  "WorkspaceRootPath": "D:\\GIT_VisualStudioRepository\\OpenGLfirstTesting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F374772D-E594-4728-A34E-AE276F0C2856}|OpenGLfirstTesting\\OpenGLfirstTesting.vcxproj|D:\\VisualStudioRepository\\OpenGLfirstTesting\\OpenGLfirstTesting\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F374772D-E594-4728-A34E-AE276F0C2856}|OpenGLfirstTesting\\OpenGLfirstTesting.vcxproj|D:\\GIT_VisualStudioRepository\\OpenGLfirstTesting\\OpenGLfirstTesting\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F374772D-E594-4728-A34E-AE276F0C2856}|OpenGLfirstTesting\\OpenGLfirstTesting.vcxproj|solutionrelative:OpenGLfirstTesting\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "D:\\VisualStudioRepository\\OpenGLfirstTesting\\OpenGLfirstTesting\\main.cpp",
+              "DocumentMoniker": "D:\\GIT_VisualStudioRepository\\OpenGLfirstTesting\\OpenGLfirstTesting\\main.cpp",
               "RelativeDocumentMoniker": "OpenGLfirstTesting\\main.cpp",
-              "ToolTip": "D:\\VisualStudioRepository\\OpenGLfirstTesting\\OpenGLfirstTesting\\main.cpp",
+              "ToolTip": "D:\\GIT_VisualStudioRepository\\OpenGLfirstTesting\\OpenGLfirstTesting\\main.cpp",
               "RelativeToolTip": "OpenGLfirstTesting\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-16T12:24:14.37Z",
               "EditorCaption": ""

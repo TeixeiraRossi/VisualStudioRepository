@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{F4AB7B19-2C0F-416F-BEE6-B463246766D2}|SecondOpenGLtests\\SecondOpenGLtests.vcxproj|solutionrelative:SecondOpenGLtests\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4AB7B19-2C0F-416F-BEE6-B463246766D2}|SecondOpenGLtests\\SecondOpenGLtests.vcxproj|D:\\GIT_VisualStudioRepository\\SecondOpenGLtests\\SecondOpenGLtests\\Main.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F4AB7B19-2C0F-416F-BEE6-B463246766D2}|SecondOpenGLtests\\SecondOpenGLtests.vcxproj|solutionrelative:SecondOpenGLtests\\Main.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4AB7B19-2C0F-416F-BEE6-B463246766D2}|SecondOpenGLtests\\SecondOpenGLtests.vcxproj|D:\\GIT_VisualStudioRepository\\SecondOpenGLtests\\SecondOpenGLtests\\Main.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F4AB7B19-2C0F-416F-BEE6-B463246766D2}|SecondOpenGLtests\\SecondOpenGLtests.vcxproj|solutionrelative:SecondOpenGLtests\\Main.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{F4AB7B19-2C0F-416F-BEE6-B463246766D2}|SecondOpenGLtests\\SecondOpenGLtests.vcxproj|D:\\GIT_VisualStudioRepository\\SecondOpenGLtests\\SecondOpenGLtests\\Error.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4AB7B19-2C0F-416F-BEE6-B463246766D2}|SecondOpenGLtests\\SecondOpenGLtests.vcxproj|solutionrelative:SecondOpenGLtests\\Error.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4AB7B19-2C0F-416F-BEE6-B463246766D2}|SecondOpenGLtests\\SecondOpenGLtests.vcxproj|D:\\GIT_VisualStudioRepository\\SecondOpenGLtests\\SecondOpenGLtests\\Error.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F4AB7B19-2C0F-416F-BEE6-B463246766D2}|SecondOpenGLtests\\SecondOpenGLtests.vcxproj|solutionrelative:SecondOpenGLtests\\Error.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4AB7B19-2C0F-416F-BEE6-B463246766D2}|SecondOpenGLtests\\SecondOpenGLtests.vcxproj|D:\\GIT_VisualStudioRepository\\SecondOpenGLtests\\SecondOpenGLtests\\Error.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F4AB7B19-2C0F-416F-BEE6-B463246766D2}|SecondOpenGLtests\\SecondOpenGLtests.vcxproj|solutionrelative:SecondOpenGLtests\\Error.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F4AB7B19-2C0F-416F-BEE6-B463246766D2}|SecondOpenGLtests\\SecondOpenGLtests.vcxproj|D:\\GIT_VisualStudioRepository\\SecondOpenGLtests\\SecondOpenGLtests\\Main.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F4AB7B19-2C0F-416F-BEE6-B463246766D2}|SecondOpenGLtests\\SecondOpenGLtests.vcxproj|solutionrelative:SecondOpenGLtests\\Main.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AB7B19-2C0F-416F-BEE6-B463246766D2}|SecondOpenGLtests\\SecondOpenGLtests.vcxproj|D:\\GIT_VisualStudioRepository\\SecondOpenGLtests\\SecondOpenGLtests\\Main.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F4AB7B19-2C0F-416F-BEE6-B463246766D2}|SecondOpenGLtests\\SecondOpenGLtests.vcxproj|solutionrelative:SecondOpenGLtests\\Main.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Error.h",
               "DocumentMoniker": "D:\\GIT_VisualStudioRepository\\SecondOpenGLtests\\SecondOpenGLtests\\Error.h",
               "RelativeDocumentMoniker": "SecondOpenGLtests\\Error.h",
@@ -46,11 +46,12 @@
               "RelativeToolTip": "SecondOpenGLtests\\Error.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-17T17:48:11.524Z"
+              "WhenOpened": "2025-08-17T17:48:11.524Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Error.cpp",
               "DocumentMoniker": "D:\\GIT_VisualStudioRepository\\SecondOpenGLtests\\SecondOpenGLtests\\Error.cpp",
               "RelativeDocumentMoniker": "SecondOpenGLtests\\Error.cpp",
@@ -58,11 +59,12 @@
               "RelativeToolTip": "SecondOpenGLtests\\Error.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-17T17:48:07.936Z"
+              "WhenOpened": "2025-08-17T17:48:07.936Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Main.frag",
               "DocumentMoniker": "D:\\GIT_VisualStudioRepository\\SecondOpenGLtests\\SecondOpenGLtests\\Main.frag",
               "RelativeDocumentMoniker": "SecondOpenGLtests\\Main.frag",
@@ -70,11 +72,12 @@
               "RelativeToolTip": "SecondOpenGLtests\\Main.frag",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-17T17:11:09.803Z"
+              "WhenOpened": "2025-08-17T17:11:09.803Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Main.vert",
               "DocumentMoniker": "D:\\GIT_VisualStudioRepository\\SecondOpenGLtests\\SecondOpenGLtests\\Main.vert",
               "RelativeDocumentMoniker": "SecondOpenGLtests\\Main.vert",

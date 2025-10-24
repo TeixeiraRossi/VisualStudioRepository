@@ -5,7 +5,7 @@ int main(void)
     GLFWwindow* window;
 
     /* Initialize the library */
-    if (!glfwInit())
+    if (!glfwInit())    
         return -1;
 
     /* Create a windowed mode window and its OpenGL context */

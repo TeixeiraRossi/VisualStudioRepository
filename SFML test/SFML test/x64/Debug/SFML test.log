@@ -1,0 +1,3 @@
+﻿  main.cpp
+main.obj : error LNK2001: símbolo externo não resolvido "public: static struct sf::RenderStates const sf::RenderStates::Default" (?Default@RenderStates@sf@@2U12@B)
+D:\GIT_VisualStudioRepository\SFML test\x64\Debug\SFML test.exe : fatal error LNK1120: 1 externo não resolvidos

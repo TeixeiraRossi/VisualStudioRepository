@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\GIT_VisualStudioRepository\PAC-MAN CLONE\PAC-MAN CLONE\main.cpp(91,14): warning C4804: '<': uso não seguro de tipo 'bool' em operação
+  PAC-MAN CLONE.vcxproj -> D:\GIT_VisualStudioRepository\PAC-MAN CLONE\x64\Debug\PAC-MAN CLONE.exe

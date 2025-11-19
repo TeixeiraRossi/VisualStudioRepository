@@ -135,6 +135,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Cube.cpp" />
     <ClCompile Include="Error.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Shader.cpp" />
@@ -144,6 +145,7 @@
     <None Include="Main.vert" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Cube.h" />
     <ClInclude Include="Error.h" />
     <ClInclude Include="Shader.h" />
   </ItemGroup>

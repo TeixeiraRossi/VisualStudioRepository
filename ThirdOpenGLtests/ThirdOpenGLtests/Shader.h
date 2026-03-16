@@ -21,7 +21,7 @@ private:
 	std::unordered_map<std::string, int> _uniformLocation;
 
 	void CompileShaders();
-	void LinkShaders();
+	void LinkProgram();
 
 	int GetUniformLocation(const std::string& variableName);
 	std::string	ReadProgramSource(const std::string filePath);

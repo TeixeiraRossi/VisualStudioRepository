@@ -15,13 +15,13 @@ public:
 	void Draw();
 
 private:
-	unsigned int VAO;
-	unsigned int EBO;
-	unsigned int positionVBO;
-	unsigned int colorVBO;
+	unsigned int _VAO;
+	unsigned int _EBO;
+	unsigned int _positionVBO;
+	unsigned int _colorVBO;
 
-	glm::vec3 position;
-	glm::mat4 model;
+	glm::vec3 _position;
+	glm::mat4 _model;
 
 	void CreateBuffers();
 	void FillBuffers();

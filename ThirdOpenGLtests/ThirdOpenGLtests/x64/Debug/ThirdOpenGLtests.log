@@ -1,1 +1,4 @@
-﻿  ThirdOpenGLtests.vcxproj -> D:\GIT_VisualStudioRepository\ThirdOpenGLtests\x64\Debug\ThirdOpenGLtests.exe
+﻿  main.cpp
+D:\GIT_VisualStudioRepository\ThirdOpenGLtests\ThirdOpenGLtests\main.cpp(81,21): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+D:\GIT_VisualStudioRepository\ThirdOpenGLtests\ThirdOpenGLtests\main.cpp(86,27): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+  ThirdOpenGLtests.vcxproj -> D:\GIT_VisualStudioRepository\ThirdOpenGLtests\x64\Debug\ThirdOpenGLtests.exe

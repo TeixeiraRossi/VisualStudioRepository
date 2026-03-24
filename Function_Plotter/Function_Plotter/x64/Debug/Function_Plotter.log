@@ -1,0 +1,11 @@
+﻿  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Main.cpp
+  Gerando Código...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflita com uso de outras bibliotecas; use /NODEFAULTLIB:library
+  Function_Plotter.vcxproj -> D:\GIT_VisualStudioRepository\Function_Plotter\x64\Debug\Function_Plotter.exe

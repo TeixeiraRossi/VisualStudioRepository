@@ -5,4 +5,8 @@ D:\Libraries\IMGUI\imgui-master\imgui_demo.cpp;D:\GIT_VisualStudioRepository\Fun
 D:\Libraries\IMGUI\imgui-master\imgui_draw.cpp;D:\GIT_VisualStudioRepository\Function_Plotter\Function_Plotter\x64\Debug\imgui_draw.obj
 D:\Libraries\IMGUI\imgui-master\imgui_tables.cpp;D:\GIT_VisualStudioRepository\Function_Plotter\Function_Plotter\x64\Debug\imgui_tables.obj
 D:\Libraries\IMGUI\imgui-master\imgui_widgets.cpp;D:\GIT_VisualStudioRepository\Function_Plotter\Function_Plotter\x64\Debug\imgui_widgets.obj
+D:\GIT_VisualStudioRepository\Function_Plotter\Function_Plotter\Camera2D.cpp;D:\GIT_VisualStudioRepository\Function_Plotter\Function_Plotter\x64\Debug\Camera2D.obj
+D:\GIT_VisualStudioRepository\Function_Plotter\Function_Plotter\glad.c;D:\GIT_VisualStudioRepository\Function_Plotter\Function_Plotter\x64\Debug\glad.obj
 D:\GIT_VisualStudioRepository\Function_Plotter\Function_Plotter\Main.cpp;D:\GIT_VisualStudioRepository\Function_Plotter\Function_Plotter\x64\Debug\Main.obj
+D:\GIT_VisualStudioRepository\Function_Plotter\Function_Plotter\Renderer.cpp;D:\GIT_VisualStudioRepository\Function_Plotter\Function_Plotter\x64\Debug\Renderer.obj
+D:\GIT_VisualStudioRepository\Function_Plotter\Function_Plotter\Shader.cpp;D:\GIT_VisualStudioRepository\Function_Plotter\Function_Plotter\x64\Debug\Shader.obj

@@ -1,58 +1,50 @@
-﻿#include "imgui.h"
-#include "imgui_impl_glfw.h"
-#include "imgui_impl_opengl3.h"
-
+﻿#include <glad/glad.h>
 #include <GLFW/glfw3.h>
+
+#include "Renderer.h"
+#include "Shader.h"
+#include "Camera2D.h"
+#include <filesystem>
+#include <iostream>
+
+
+
+Camera2D camera;
+
+void scroll_callback(GLFWwindow*, double, double yoffset)
+{
+    camera.processScroll((float)yoffset);
+}
 
 int main()
 {
+    std::cout << std::filesystem::exists("quad.vert") << std::endl;
     glfwInit();
-
-    GLFWwindow* window = glfwCreateWindow(800, 600, "ImGui Test", NULL, NULL);
+    GLFWwindow* window = glfwCreateWindow(800, 600, "Plotador", NULL, NULL);
     glfwMakeContextCurrent(window);
 
-    // Setup ImGui
-    IMGUI_CHECKVERSION();
-    ImGui::CreateContext();
-    ImGuiIO& io = ImGui::GetIO();
+    gladLoadGL();
 
-    ImGui::StyleColorsDark();
+    glfwSetScrollCallback(window, scroll_callback);
 
-    // Inicializar backends
-    ImGui_ImplGlfw_InitForOpenGL(window, true);
-    ImGui_ImplOpenGL3_Init("#version 130");
+    Renderer renderer;
+    renderer.init();
+
+    Shader shader("quad.vert", "domain.frag");
 
     while (!glfwWindowShouldClose(window))
     {
-        glfwPollEvents();
-
-        // Novo frame
-        ImGui_ImplOpenGL3_NewFrame();
-        ImGui_ImplGlfw_NewFrame();
-        ImGui::NewFrame();
-
-        // 🔥 Aqui você desenha a UI
-        ImGui::Begin("Minha Janela");
-        ImGui::Text("Hello, world!");
-        ImGui::End();
-
-        // Render
-        ImGui::Render();
-        int display_w, display_h;
-        glfwGetFramebufferSize(window, &display_w, &display_h);
-
-        glViewport(0, 0, display_w, display_h);
         glClear(GL_COLOR_BUFFER_BIT);
 
-        ImGui_ImplOpenGL3_RenderDrawData(ImGui::GetDrawData());
+        shader.use();
+        shader.setFloat("zoom", camera.zoom);
+        shader.setVec2("offset", camera.offsetX, camera.offsetY);
+
+        renderer.draw();
 
         glfwSwapBuffers(window);
+        glfwPollEvents();
     }
-
-    // Cleanup
-    ImGui_ImplOpenGL3_Shutdown();
-    ImGui_ImplGlfw_Shutdown();
-    ImGui::DestroyContext();
 
     glfwTerminate();
 }

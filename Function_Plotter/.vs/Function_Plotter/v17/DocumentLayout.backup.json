@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "D:\\GIT_VisualStudioRepository\\Function_Plotter\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2B3CBBB9-6B2B-476F-A9B7-83202E5BBF40}|Function_Plotter\\Function_Plotter.vcxproj|D:\\GIT_VisualStudioRepository\\Function_Plotter\\Function_Plotter\\domain.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2B3CBBB9-6B2B-476F-A9B7-83202E5BBF40}|Function_Plotter\\Function_Plotter.vcxproj|solutionrelative:Function_Plotter\\domain.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3CBBB9-6B2B-476F-A9B7-83202E5BBF40}|Function_Plotter\\Function_Plotter.vcxproj|D:\\GIT_VisualStudioRepository\\Function_Plotter\\Function_Plotter\\quad.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2B3CBBB9-6B2B-476F-A9B7-83202E5BBF40}|Function_Plotter\\Function_Plotter.vcxproj|solutionrelative:Function_Plotter\\quad.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3CBBB9-6B2B-476F-A9B7-83202E5BBF40}|Function_Plotter\\Function_Plotter.vcxproj|D:\\GIT_VisualStudioRepository\\Function_Plotter\\Function_Plotter\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B3CBBB9-6B2B-476F-A9B7-83202E5BBF40}|Function_Plotter\\Function_Plotter.vcxproj|solutionrelative:Function_Plotter\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3CBBB9-6B2B-476F-A9B7-83202E5BBF40}|Function_Plotter\\Function_Plotter.vcxproj|D:\\GIT_VisualStudioRepository\\Function_Plotter\\Function_Plotter\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B3CBBB9-6B2B-476F-A9B7-83202E5BBF40}|Function_Plotter\\Function_Plotter.vcxproj|solutionrelative:Function_Plotter\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2B3CBBB9-6B2B-476F-A9B7-83202E5BBF40}|Function_Plotter\\Function_Plotter.vcxproj|D:\\GIT_VisualStudioRepository\\Function_Plotter\\Function_Plotter\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2B3CBBB9-6B2B-476F-A9B7-83202E5BBF40}|Function_Plotter\\Function_Plotter.vcxproj|solutionrelative:Function_Plotter\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3CBBB9-6B2B-476F-A9B7-83202E5BBF40}|Function_Plotter\\Function_Plotter.vcxproj|D:\\GIT_VisualStudioRepository\\Function_Plotter\\Function_Plotter\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B3CBBB9-6B2B-476F-A9B7-83202E5BBF40}|Function_Plotter\\Function_Plotter.vcxproj|solutionrelative:Function_Plotter\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3CBBB9-6B2B-476F-A9B7-83202E5BBF40}|Function_Plotter\\Function_Plotter.vcxproj|D:\\GIT_VisualStudioRepository\\Function_Plotter\\Function_Plotter\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B3CBBB9-6B2B-476F-A9B7-83202E5BBF40}|Function_Plotter\\Function_Plotter.vcxproj|solutionrelative:Function_Plotter\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +47,90 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "domain.frag",
+              "DocumentMoniker": "D:\\GIT_VisualStudioRepository\\Function_Plotter\\Function_Plotter\\domain.frag",
+              "RelativeDocumentMoniker": "Function_Plotter\\domain.frag",
+              "ToolTip": "D:\\GIT_VisualStudioRepository\\Function_Plotter\\Function_Plotter\\domain.frag*",
+              "RelativeToolTip": "Function_Plotter\\domain.frag*",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-24T17:30:33.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "quad.vert",
+              "DocumentMoniker": "D:\\GIT_VisualStudioRepository\\Function_Plotter\\Function_Plotter\\quad.vert",
+              "RelativeDocumentMoniker": "Function_Plotter\\quad.vert",
+              "ToolTip": "D:\\GIT_VisualStudioRepository\\Function_Plotter\\Function_Plotter\\quad.vert",
+              "RelativeToolTip": "Function_Plotter\\quad.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-24T18:07:35.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shader.cpp",
+              "DocumentMoniker": "D:\\GIT_VisualStudioRepository\\Function_Plotter\\Function_Plotter\\Shader.cpp",
+              "RelativeDocumentMoniker": "Function_Plotter\\Shader.cpp",
+              "ToolTip": "D:\\GIT_VisualStudioRepository\\Function_Plotter\\Function_Plotter\\Shader.cpp",
+              "RelativeToolTip": "Function_Plotter\\Shader.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-24T17:32:49.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shader.h",
+              "DocumentMoniker": "D:\\GIT_VisualStudioRepository\\Function_Plotter\\Function_Plotter\\Shader.h",
+              "RelativeDocumentMoniker": "Function_Plotter\\Shader.h",
+              "ToolTip": "D:\\GIT_VisualStudioRepository\\Function_Plotter\\Function_Plotter\\Shader.h",
+              "RelativeToolTip": "Function_Plotter\\Shader.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-24T17:27:58.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Renderer.cpp",
+              "DocumentMoniker": "D:\\GIT_VisualStudioRepository\\Function_Plotter\\Function_Plotter\\Renderer.cpp",
+              "RelativeDocumentMoniker": "Function_Plotter\\Renderer.cpp",
+              "ToolTip": "D:\\GIT_VisualStudioRepository\\Function_Plotter\\Function_Plotter\\Renderer.cpp",
+              "RelativeToolTip": "Function_Plotter\\Renderer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-24T17:25:14.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Renderer.h",
+              "DocumentMoniker": "D:\\GIT_VisualStudioRepository\\Function_Plotter\\Function_Plotter\\Renderer.h",
+              "RelativeDocumentMoniker": "Function_Plotter\\Renderer.h",
+              "ToolTip": "D:\\GIT_VisualStudioRepository\\Function_Plotter\\Function_Plotter\\Renderer.h",
+              "RelativeToolTip": "Function_Plotter\\Renderer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-24T17:23:59.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Main.cpp",
               "DocumentMoniker": "D:\\GIT_VisualStudioRepository\\Function_Plotter\\Function_Plotter\\Main.cpp",
               "RelativeDocumentMoniker": "Function_Plotter\\Main.cpp",
               "ToolTip": "D:\\GIT_VisualStudioRepository\\Function_Plotter\\Function_Plotter\\Main.cpp",
               "RelativeToolTip": "Function_Plotter\\Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-23T18:03:31.767Z",
               "EditorCaption": ""

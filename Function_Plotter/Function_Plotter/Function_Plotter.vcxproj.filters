@@ -13,6 +13,21 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Arquivos de Origem\renderer">
+      <UniqueIdentifier>{63d311cd-add0-47a4-b45f-f0b32ca569d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Origem\math">
+      <UniqueIdentifier>{afd87641-52ca-4b73-8a5e-c38c707e3536}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Origem\system">
+      <UniqueIdentifier>{050db003-6462-4ad7-baed-8d806e6704a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Origem\ui">
+      <UniqueIdentifier>{3e6f4f01-e061-41c9-9483-8fb49242802d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Origem\shaders">
+      <UniqueIdentifier>{920f3bbd-14f5-4c6a-9531-cd9cafea4b41}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp">
@@ -38,6 +53,18 @@
     </ClCompile>
     <ClCompile Include="..\..\..\Libraries\IMGUI\imgui-master\backends\imgui_impl_glfw.cpp">
       <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="glad.c">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera2D.cpp">
+      <Filter>Arquivos de Origem\system</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer.cpp">
+      <Filter>Arquivos de Origem\renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader.cpp">
+      <Filter>Arquivos de Origem\renderer</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -158,5 +185,22 @@
     <ClInclude Include="..\..\..\Libraries\IMGUI\imgui-master\backends\imgui_impl_opengl3.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>Arquivos de Origem\renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera2D.h">
+      <Filter>Arquivos de Origem\system</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer.h">
+      <Filter>Arquivos de Origem\renderer</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="quad.vert">
+      <Filter>Arquivos de Origem\shaders</Filter>
+    </None>
+    <None Include="domain.frag">
+      <Filter>Arquivos de Origem\shaders</Filter>
+    </None>
   </ItemGroup>
 </Project>

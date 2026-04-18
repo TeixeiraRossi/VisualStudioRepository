@@ -147,6 +147,7 @@
     <ClCompile Include="..\..\..\Libraries\IMGUI\imgui-master\imgui_tables.cpp" />
     <ClCompile Include="..\..\..\Libraries\IMGUI\imgui-master\imgui_widgets.cpp" />
     <ClCompile Include="Camera2D.cpp" />
+    <ClCompile Include="ExpressionParser.cpp" />
     <ClCompile Include="glad.c" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="Renderer.cpp" />
@@ -156,6 +157,7 @@
     <ClInclude Include="..\..\..\Libraries\IMGUI\imgui-master\backends\imgui_impl_opengl3.h" />
     <ClInclude Include="..\..\..\Libraries\IMGUI\imgui-master\imgui.h" />
     <ClInclude Include="Camera2D.h" />
+    <ClInclude Include="ExpressionParser.h" />
     <ClInclude Include="IMGUI\imgui-master\backends\imgui_impl_allegro5.h" />
     <ClInclude Include="IMGUI\imgui-master\backends\imgui_impl_android.h" />
     <ClInclude Include="IMGUI\imgui-master\backends\imgui_impl_dx10.h" />

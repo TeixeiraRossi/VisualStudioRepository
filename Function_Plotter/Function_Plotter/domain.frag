@@ -5,22 +5,11 @@ in vec2 uv;
 
 uniform float zoom;
 uniform vec2 offset;
+uniform float gridScale;
+uniform int functionId;
 
-// multiplicação complexa
-vec2 cmul(vec2 a, vec2 b)
-{
-    return vec2(
-        a.x*b.x - a.y*b.y,
-        a.x*b.y + a.y*b.x
-    );
-}
 
-// função: f(z) = z²
-vec2 func(vec2 z)
-{
-    return cmul(z, z);
-}
-
+//conversao da cor pra rbg
 vec3 hsv2rgb(vec3 c)
 {
     vec3 rgb = clamp(
@@ -41,6 +30,36 @@ float grid(vec2 coord)
     return 1.0 - clamp(line, 0.0, 1.0);
 }
 
+vec2 cmul(vec2  a, vec2 b)
+{
+    return vec2(
+        a.x*a.x - a.y*a.y,
+        2.0*a.x*a.y
+    );
+}
+
+vec2 cdiv(vec2 a, vec2 b)
+{
+    float denom = b.x*b.x + b.y*b.y + 1e-6;
+    return vec2(
+      a.x*b.x + a.y*a.y,
+      a.y*b.x - a.x*b.y
+    );
+}
+
+vec2 csin(vec2 z)
+{
+    return vec2(
+        sin(z.x) * cosh(z.y),
+        cos(z.x) * sinh(z.y)
+    );
+}
+
+vec2 func(vec2 z)
+{
+    return RETURN_EXPRESSION;
+}
+
 void main()
 {
     vec2 z = uv * zoom + offset;
@@ -58,11 +77,12 @@ void main()
 
     float saturation = 0.9;
 
-    vec2 gridCoord = w * 1.0; // escala do grid
+    vec2 gridCoord = w * gridScale;
     float g = grid(gridCoord);
 
     vec3 color = hsv2rgb(vec3(hue, saturation, value));
-    color = mix(color, vec3(0.0), g * 0.5);
+
+    color = mix(color, vec3(0.0), g * 0.5); 
 
     FragColor = vec4(color, 1.0);
 }

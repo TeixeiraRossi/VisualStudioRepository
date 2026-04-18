@@ -28,6 +28,9 @@
     <Filter Include="Arquivos de Origem\shaders">
       <UniqueIdentifier>{920f3bbd-14f5-4c6a-9531-cd9cafea4b41}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Arquivos de Origem\core">
+      <UniqueIdentifier>{7c2df9bb-6335-4ea8-a572-561a20f4b50d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp">
@@ -65,6 +68,9 @@
     </ClCompile>
     <ClCompile Include="Shader.cpp">
       <Filter>Arquivos de Origem\renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="ExpressionParser.cpp">
+      <Filter>Arquivos de Origem\core</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -193,6 +199,9 @@
     </ClInclude>
     <ClInclude Include="Renderer.h">
       <Filter>Arquivos de Origem\renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="ExpressionParser.h">
+      <Filter>Arquivos de Origem\core</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
